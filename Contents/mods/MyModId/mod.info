@@ -1,0 +1,9 @@
+name=My mod name
+id=MyModId
+description=My mod description
+author=My name
+icon=icon.png
+poster=poster.png
+modversion=1.0
+require=CommunityAPI,SomeOtherMod
+url=https://github.com/MyGitUsername/MyModRepository

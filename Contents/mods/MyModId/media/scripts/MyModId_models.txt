@@ -1,0 +1,7 @@
+module MyModId {
+    imports {
+        Base,
+    }
+
+    /* Models definitions here */
+}

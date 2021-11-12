@@ -1,0 +1,6 @@
+version=1
+title=My Mod Name
+description=My Mod Description Line 1
+description=My Mod Description Line 2
+description=My Mod Description Line 3
+visibility=public

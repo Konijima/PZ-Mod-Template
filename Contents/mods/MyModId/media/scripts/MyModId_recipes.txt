@@ -1,0 +1,7 @@
+module MyModId {
+    imports {
+        Base,
+    }
+
+    /* Recipes definitions here */
+}
